@@ -1,6 +1,7 @@
 # pvt-addsl
 This repo is supporting material for the paper Hand Gesture Detection and Sign Language Recognition on Danish Sign Language
 
+Download dataset and other code related files from here - https://archive.org/download/tegnsprok/extras/tegnsprok.zip
 
 ![image](https://user-images.githubusercontent.com/13884479/229640450-ab187baa-8101-4495-b83c-f44b3bda8fd1.png)
 
